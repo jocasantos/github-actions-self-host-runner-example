@@ -60,6 +60,7 @@ cd github-actions-self-host-runner-example
 2. Press "New self-hosted runner".
 3. Choose Linux as the operating system.
 4. Follow the instructions to download, configure and connect to the runner.
+5. You should see in your terminal "Listening for Jobs" if the runner is correctly configured.
 
 ### Step 5: Modify the workflow file
 
